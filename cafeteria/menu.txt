@@ -1,0 +1,16 @@
+--- DAILY MENU ---
+
+BREAKFAST:
+1) Oatmeal
+2) Bread
+3) Boiled Egg
+
+LUNCH:
+1) Boiled Vegetables
+2) Rice
+3) Ground meat
+
+DINNER:
+1) Stew
+2) Potato
+3) Kale
