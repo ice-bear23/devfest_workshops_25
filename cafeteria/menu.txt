@@ -7,10 +7,14 @@ BREAKFAST:
 
 LUNCH:
 1) Boiled Vegetables
-2) Rice
-3) Ground meat
+4) Rice
+6) Ground meat
 
 DINNER:
-1) Stew
-2) Potato
-3) Kale
+5) Stew
+6) Potato
+7) Kale
+
+## NOTICE ##
+## No more BREAKFAST due to budget cuts ## 
+## Expect riots ##
